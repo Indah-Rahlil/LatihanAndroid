@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LatihanAndroid</string>
+
+    <string-array name="operation_aritmatik">
+        <item>Penjumlahan</item>
+        <item>Pengurangan</item>
+        <item>Perkalian</item>
+        <item>Pembagian</item>
+    </string-array>
+</resources>
